@@ -60,7 +60,7 @@ This project includes **interactive reports and dashboards** developed using **M
 
 - [Healthcare OLTP to Data Warehouse](https://github.com/ChaLinP/Healthcare-OLTP-to-Data-Warehouse-for-Analytics)
 - [Healthcare SSAS Cube](https://github.com/ChaLinP/Healthcare-SSAS-Cube)
-- [Healthcare Power BI and Excel Documentation](https://github.com/your-username/healthcare-ssrs)
+- [Healthcare Power BI and Excel Documentation](https://github.com/ChaLinP/Healthcare-Power-BI-and-Excel-Documentation)
 
 ---
 
