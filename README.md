@@ -5,6 +5,7 @@
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Tools Used](#tools-used)
+- [Screenshots](#screenshots)
 - [Author](#author)
 - [Related Projects](#related-projects)
 - [License](#license)
@@ -26,10 +27,26 @@ This project includes **interactive reports and dashboards** developed using **M
 
 ## Screenshots
 
+### 📊 Power BI Reports
 
+#### 📋 Report 1 – Matrix Visual
+![Report 1](images/Report%201.png)
 
+#### 🎯 Report 2 – Cascading Filters & Visuals
+![Report 2](images/Report%202.png)
 
-https://drive.google.com/file/d/1T7L2-cJ9f4h48DPkwvQL8EuJSPWsAIA8/view?usp=sharing
+#### 📈 Report 3 – Drill-Down Report
+![Report 3 - I](images/Report%203%20l.png)  
+![Report 3 - II](images/Report%203%20Il.png)
+
+#### 🔍 Report 4 – Drill-Through Report
+![Report 4 - I](images/Report%204%20l.png)  
+![Report 4 - II](images/Report%204%20ll.png)
+
+### 📊 Excel Pivot Report
+
+![Excel Report](images/Execl.png)
+
 ---
 
 ## Author
